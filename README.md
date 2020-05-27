@@ -22,7 +22,7 @@ Returns an array of strings containing all baby names.
 mytidbit.random([arg])
 Returns a random baby name from the list.
 
-const babyname = games.random()
+const babyname = mytidbit.random()
 
 
 *****************************************************************************************
