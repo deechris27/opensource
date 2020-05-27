@@ -1,4 +1,3 @@
-'use strict';
 
 let randomVal = require('unique-random-array');
 let allNames = require('./mytidbit-names.json');
