@@ -35,7 +35,6 @@
     "@babel/runtime": "7.10.0",
     "babel-loader": "8.1.0",
     "babel-plugin-istanbul": "6.0.0",
-    "eslint-config-airbnb": "18.1.0",
     "eslint-config-standard": "14.1.1",
     "json-loader": "0.5.7",
     "unique-random-array": "2.0.0",
