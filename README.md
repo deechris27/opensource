@@ -7,15 +7,14 @@ Get random baby names!
 Installation
 This package is distributed via npm:
 
-npm install retro-game-names
+npm install mytidbit
 
-Usage
+**Usage**
 
 import mytidbit from 'mytidbit'
-Most functions will return a Game object.
 
 
-The Library
+**The Library**
 
 mytidbit.all
 Returns an array of strings containing all baby names.
