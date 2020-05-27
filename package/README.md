@@ -1,3 +1,0 @@
-# random-names
-
-hello world
