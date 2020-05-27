@@ -1,4 +1,36 @@
-A simple library that gets you random names. There will be more functionality to it in the upcoming releases.
-In future, this will be baby-name(s) generator.
+travis build codecov coverage version downloads MIT License semantic-release
 
-npm install mytidbit
+Get random baby names!
+
+***Baby name generator***
+
+Installation
+This package is distributed via npm:
+
+npm install retro-game-names
+
+Usage
+
+import mytidbit from 'mytidbit'
+Most functions will return a Game object.
+
+
+The Library
+
+mytidbit.all
+Returns an array of strings containing all baby names.
+
+mytidbit.random([arg])
+Returns a random baby name from the list.
+
+const babyname = games.random()
+
+
+*****************************************************************************************
+This library was built by Deepak for fun.
+
+Project Setup
+This project assumes you have NodeJS v8 or above installed. You should also have npm v3 or greater installed as well.
+
+cheers
+Deepak
