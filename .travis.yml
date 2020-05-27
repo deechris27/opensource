@@ -12,3 +12,5 @@ before_script:
   - npm prune
 script:
   - npm run validate
+after_success:
+  - npm run coverage-report
