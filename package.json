@@ -11,7 +11,7 @@
     "test": "cross-env NODE_ENV=test nyc --reporter=html mocha --require @babel/register",
     "test:watch": "mocha --watch",
     "validate": "npm-run-all --parallel test build",
-    "coverage-report": "cat ./coverage/lcov.info | codecov"
+    "coverage-report": "cat ./coverage | codecov"
   },
   "nyc": {
     "check-coverage": true,
