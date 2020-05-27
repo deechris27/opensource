@@ -1,4 +1,4 @@
-travis build codecov coverage version downloads MIT License semantic-release
+[![Build Status](https://travis-ci.org/deechris27/opensource.svg?branch=master)](https://travis-ci.org/deechris27/opensource)
 
 Get random baby names!
 

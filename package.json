@@ -1,6 +1,6 @@
 {
   "name": "mytidbit",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Baby name generator",
   "main": "dist/index.js",
   "scripts": {
