@@ -1,8 +1,8 @@
 {
   "name": "mytidbit",
   "version": "1.0.0",
-  "description": "hello world",
-  "main": "index.js",
+  "description": "Baby name generator",
+  "main": "dist/index.js",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "npm-run-all --parallel build:*",
