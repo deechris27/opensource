@@ -7,7 +7,7 @@
 #Baby name generator***
 
 Installation
-This package is distributed via npm:
+ - This package is distributed via npm:
 
 ```npm install mytidbit```
 
