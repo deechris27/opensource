@@ -6,11 +6,11 @@ let randomNames = require('.');
 describe('random-names', ()=>{
 
     it('gets me list of all available names', ()=>{
-        expect(isArrayOfStrings(randomNames.all)).to.be.true
+        expect(isArrayOfStrings(randomNames.allNames)).to.be.true
     })
 
     it('gets me a randome name', ()=>{
-        expect(randomNames.random()).to.satisfy(isIncluded(randomNames.all))
+        expect(randomNames.randomName()).to.satisfy(isIncluded(randomNames.allNames))
     })
 });
 
