@@ -8,26 +8,33 @@
 **Get random baby names!**
 
 Installation
- - This package is distributed via npm:
+ 
+  This package is distributed via npm:
 
 ```npm install mytidbit```
 
 **Usage**
 
-```import mytidbit from 'mytidbit'```
+```import mytidbit from 'mytidbit'``` | ```const mytidbit = require('mytidbit')```
 
 
-**The Library**
+```mytidbit.allNames``` *Returns an array of strings containing all baby names.*
 
-```mytidbit.all()```
+```mytidbit.randonName()``` *Returns a random baby name from the list.*
 
-Returns an array of strings containing all baby names.
+```mytidbit.randomBoyName()``` *Returns a random boy baby name.*
 
-```mytidbit.random()```
+```mytidbit.randomGirlName()``` *Returns a random girl baby name.*
 
-Returns a random baby name from the list.
+```mytidbit.boyStartingWith('a')``` *Returns all boy baby names starting with 'a'.*
 
-```const babyname = mytidbit.random()```
+```mytidbit.girlStartingWith('b')``` *Returns all girl baby names starting with 'b'.*
+
+**Other Usage Example**
+
+```const babyname = mytidbit.randomName()```
+
+
 
 [Mytidbit](https://www.npmjs.com/package/mytidbit)
 *****************************************************************************************
