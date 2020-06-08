@@ -2,29 +2,31 @@
 
 
 
-Get random baby names!
+**Get random baby names!**
 
-***Baby name generator***
+#Baby name generator***
 
 Installation
 This package is distributed via npm:
 
-npm install mytidbit
+```npm install mytidbit```
 
 **Usage**
 
-import mytidbit from 'mytidbit'
+```import mytidbit from 'mytidbit'```
 
 
 **The Library**
 
-mytidbit.all
+```mytidbit.all()```
+
 Returns an array of strings containing all baby names.
 
-mytidbit.random([arg])
+```mytidbit.random()```
+
 Returns a random baby name from the list.
 
-const babyname = mytidbit.random()
+```const babyname = mytidbit.random()```
 
 
 *****************************************************************************************
