@@ -3,6 +3,8 @@
 
 # Baby name generator
 
+![alt text](https://i.pinimg.com/originals/85/a0/d4/85a0d4d9a3ad6a1a9b57deff8f0b9e04.jpg)
+
 **Get random baby names!**
 
 Installation
@@ -27,7 +29,7 @@ Returns a random baby name from the list.
 
 ```const babyname = mytidbit.random()```
 
-
+[Mytidbit](https://www.npmjs.com/package/mytidbit)
 *****************************************************************************************
 This library was built by Deepak for fun.
 
