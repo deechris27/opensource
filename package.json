@@ -47,7 +47,7 @@
   "devDependencies": {
     "@babel/register": "7.9.0",
     "chai": "4.2.0",
-    "codecov": "3.7.0",
+    "codecov": "3.7.1",
     "cross-env": "7.0.2",
     "eslint-plugin-import": "2.20.2",
     "eslint-plugin-jsx-a11y": "6.2.3",
