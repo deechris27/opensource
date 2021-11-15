@@ -3,8 +3,6 @@
 
 # Baby name generator
 
-![alt text](https://i.pinimg.com/originals/85/a0/d4/85a0d4d9a3ad6a1a9b57deff8f0b9e04.jpg)
-
 **Get random baby names!**
 
 Installation
