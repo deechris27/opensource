@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/deechris27/opensource.svg?branch=master)](https://travis-ci.org/deechris27/opensource) ![NPM](https://img.shields.io/npm/l/mytidbit)
 
-
 # Baby name generator
 
 **Get random baby names!**
